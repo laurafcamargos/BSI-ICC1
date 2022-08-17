@@ -30,4 +30,5 @@ int main()
   if (digitos(x, d) == digitos(y, d))
     printf("%d eh permutacao de %d\n", x, y);
   return 0;
+  
 }
