@@ -1,4 +1,4 @@
-//Laura Fernandes Camargos- 13692334
+// Laura Fernandes Camargos- 13692334
 #include <stdio.h>
 int digitos(int n, int d);
 
@@ -30,5 +30,4 @@ int main()
   if (digitos(x, d) == digitos(y, d))
     printf("%d eh permutacao de %d\n", x, y);
   return 0;
-  
 }
